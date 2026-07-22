@@ -1,0 +1,36 @@
+# ==========================
+# AI Frameworks
+# ==========================
+langchain
+llama-index
+haystack-ai
+
+# ==========================
+# Backend
+# ==========================
+fastapi
+uvicorn
+
+# ==========================
+# Utilities
+# ==========================
+requests
+python-dotenv
+
+# ==========================
+# Data Science
+# ==========================
+pandas
+numpy
+scikit-learn
+
+# ==========================
+# (Optional) If using OpenAI
+# ==========================
+openai
+
+# ==========================
+# (Optional) If using Hugging Face
+# ==========================
+transformers
+sentence-transformers
