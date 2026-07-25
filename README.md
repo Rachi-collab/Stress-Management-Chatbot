@@ -1,6 +1,6 @@
 # Peace Talk - Stress Management Chatbot
 
-Peace Talk is a premium, supportive, and confidential mental health companion designed as a College Minor Project. It features a modern, glassmorphic Light/Dark mode web UI, built-in crisis keyword interception, and a **Retrieval-Augmented Generation (RAG)** pipeline to query localized stress-management guides.
+Peace Talk is a premium, supportive, and confidential mental health companion. It features a modern, glassmorphic Light/Dark mode web UI, built-in crisis keyword interception, and a **Retrieval-Augmented Generation (RAG)** pipeline to query localized stress-management guides.
 
 ---
 
