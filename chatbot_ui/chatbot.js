@@ -1,4 +1,6 @@
-const API_URL = 'http://localhost:8000/chat';
+const API_URL = (window.location.protocol === 'file:' || window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost')
+    ? 'http://localhost:8000/chat'
+    : '/chat';
 const sessionId = "user_" + Math.floor(Math.random() * 100000);
 
 // ---------- Theme System ----------
