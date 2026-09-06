@@ -4,7 +4,7 @@ Peace Talk is a premium, supportive, and confidential mental health companion. I
 
 ---
 
-## 🌟 Features
+## Features
 
 *   **Empathetic AI Conversationalist**: Powered by `Meta-Llama-3.1-8B-Instruct` via a remote, serverless Hugging Face Inference Router for fast responses.
 *   **Retrieval-Augmented Generation (RAG)**: Leverages `LlamaIndex` to read guidelines from local documents (e.g., `data/Stress-management.txt`) and tailors responses to stress management queries.
@@ -14,7 +14,7 @@ Peace Talk is a premium, supportive, and confidential mental health companion. I
 
 ---
 
-## 🏗️ Architecture & AI Engine
+## Architecture & AI Engine
 
 The chatbot backend is built on **FastAPI** with a hybrid AI pipeline:
 
@@ -24,7 +24,7 @@ The chatbot backend is built on **FastAPI** with a hybrid AI pipeline:
 
 ---
 
-## 📂 Project Directory Structure
+## Project Directory Structure
 
 ```text
 Peace talk/
@@ -48,7 +48,7 @@ Peace talk/
 
 ---
 
-## ⚙️ Installation & Setup (From Scratch)
+## Installation & Setup (From Scratch)
 
 ### 1. Prerequisites
 Ensure you have **Python 3.10+** installed on your system.
@@ -78,7 +78,7 @@ HUGGINGFACE_API_KEY=your_huggingface_api_token_here
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 ### Step 1: Start the FastAPI Backend
 From the root directory with the virtual environment activated, run:
@@ -98,7 +98,7 @@ You can launch the frontend client in two ways:
 
 ---
 
-## 🧪 Testing & Verification
+## Testing & Verification
 
 We have created several validation scripts in the scratch directory to verify the streaming logic and RAG retrieval pipeline without running the server:
 
